@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">tab_layout_without_adapter</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="home">Home</string>
+
+    <string-array name="firstUnit">
+        <item>Milimeter</item>
+        <item>Centimeter</item>
+        <item>Decimeter</item>
+        <item>Meter</item>
+        <item>Inch</item>
+        <item>Fit</item>
+        <item>Yard</item>
+        <item>Fathom</item>
+        <item>Mile</item>
+        <item>Kilometer</item>
+        <item>Nanometer(nautical)</item>
+        <item>Link</item>
+        <item>Chain</item>
+        <item>Furlong</item>
+        <item>Mil</item>
+    </string-array>
+
+
+    <string-array name="secondUnit">
+        <item>Milimeter</item>
+        <item>Centimeter</item>
+        <item>Decimeter</item>
+        <item>Meter</item>
+        <item>Inch</item>
+        <item>Fit</item>
+        <item>Yard</item>
+        <item>Fathom</item>
+        <item>Mile</item>
+        <item>Kilometer</item>
+        <item>Nanometer(nautical)</item>
+        <item>Link</item>
+        <item>Chain</item>
+        <item>Furlong</item>
+        <item>Mil</item>
+    </string-array>
+
+    <string-array name="firstUnit1">
+        <item>Milimeter2</item>
+        <item>Centimeter2</item>
+        <item>Decimeter2</item>
+        <item>Meter2</item>
+        <item>Inch2</item>
+        <item>Fit2</item>
+        <item>Yard2</item>
+        <item>Acre2</item>
+        <item>aa</item>
+        <item>ha2</item>
+        <item>km2</item>
+        <item>Gunta2</item>
+        <item>cent/dismil</item>
+        <item>Bigha/kaccha</item>
+        <item>Bigha(Gujarat)</item>
+    </string-array>
+
+    <string-array name="secondUnit1">
+        <item>Milimeter2</item>
+        <item>Centimeter2</item>
+        <item>Decimeter2</item>
+        <item>Meter2</item>
+        <item>Inch2</item>
+        <item>Fit2</item>
+        <item>Yard2</item>
+        <item>Acre2</item>
+        <item>aa</item>
+        <item>ha2</item>
+        <item>km2</item>
+        <item>Gunta2</item>
+        <item>cent/dismil</item>
+        <item>Bigha/kaccha</item>
+        <item>Bigha(Gujarat)</item>
+    </string-array>
+
+
+
+</resources>
